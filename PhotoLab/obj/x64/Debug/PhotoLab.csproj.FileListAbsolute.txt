@@ -1,0 +1,13 @@
+D:\PBKK-Photolab-main\PBKK-Photolab-main\PhotoLab\obj\x64\Debug\PhotoLab.csproj.AssemblyReference.cache
+D:\PBKK-Photolab-main\PBKK-Photolab-main\PhotoLab\obj\x64\Debug\App.g.i.cs
+D:\PBKK-Photolab-main\PBKK-Photolab-main\PhotoLab\obj\x64\Debug\App.g.cs
+D:\PBKK-Photolab-main\PBKK-Photolab-main\PhotoLab\obj\x64\Debug\DetailPage.g.i.cs
+D:\PBKK-Photolab-main\PBKK-Photolab-main\PhotoLab\obj\x64\Debug\DetailPage.g.cs
+D:\PBKK-Photolab-main\PBKK-Photolab-main\PhotoLab\obj\x64\Debug\MainPage.g.i.cs
+D:\PBKK-Photolab-main\PBKK-Photolab-main\PhotoLab\obj\x64\Debug\MainPage.g.cs
+D:\PBKK-Photolab-main\PBKK-Photolab-main\PhotoLab\obj\x64\Debug\App.xaml
+D:\PBKK-Photolab-main\PBKK-Photolab-main\PhotoLab\obj\x64\Debug\DetailPage.xaml
+D:\PBKK-Photolab-main\PBKK-Photolab-main\PhotoLab\obj\x64\Debug\MainPage.xaml
+D:\PBKK-Photolab-main\PBKK-Photolab-main\PhotoLab\obj\x64\Debug\App.xbf
+D:\PBKK-Photolab-main\PBKK-Photolab-main\PhotoLab\obj\x64\Debug\DetailPage.xbf
+D:\PBKK-Photolab-main\PBKK-Photolab-main\PhotoLab\obj\x64\Debug\MainPage.xbf
